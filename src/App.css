@@ -73,3 +73,26 @@ height: 80px;
   width:50%;
   padding-top: 20px;
 }
+.itm{
+margin-top: 5rem;
+text-align: right;
+padding-right: 40px;
+}
+
+.header{
+  display: flex;
+  width:100%;
+  align-items: center;
+   background-color: black;
+}
+.logo{
+  align-items: center;
+text-align: right;
+}
+.header-Links ul li{
+  list-style-type: none;
+  display: inline-block;
+  font-size: 30px;
+  text-align: right;
+  align-items: center;
+}
